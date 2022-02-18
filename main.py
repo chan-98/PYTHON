@@ -1,0 +1,5 @@
+print("This is my first code.")
+print('You can use either single or double quotes to print something. If you want to print a statement in the next line, just type the print() in the next line.')
+print("To run a code in PyCharm, just do Alt+Shift+F10.")
+print("The name of the project in PyCharm is helloWorld. Right click on the folder with this name and")
+print('go to New > Python file and name it "main.py".')
